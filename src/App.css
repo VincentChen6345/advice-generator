@@ -47,6 +47,12 @@ html {
   position: absolute;
   bottom: -3rem;
 }
+.button:hover {
+  box-shadow: 0 0 3rem var(--fluoro-green);
+}
+.button:active {
+  background-color: var(--dark-fluoro-green);
+}
 .dice {
   display: flex;
   align-items: center;

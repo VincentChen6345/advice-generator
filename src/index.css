@@ -16,6 +16,7 @@ code {
   --light-navy-blue: rgb(35, 44, 56);
   --fluoro-green: rgb(75, 255, 154);
   --white-blue: rgb(193, 220, 228);
+  --dark-fluoro-green: rgb(51, 171, 103);
 
   /*Breakpoints*/
   --small: 521px;
